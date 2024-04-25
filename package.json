@@ -1,18 +1,65 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@emiplegiaqmnpm/eaque-vitae-recusandae",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "emiplegiaqM",
   "license": "MIT",
+  "dependencies": {
+    "@emiplegiaqmnpm/cupiditate-excepturi-necessitatibus": "^1.0.0",
+    "@emiplegiaqmnpm/fugit-vero-voluptas": "^1.0.0",
+    "@emiplegiaqmnpm/magni-doloremque-facilis": "^1.0.0",
+    "@emiplegiaqmnpm/porro-culpa-sint": "^1.0.0",
+    "@emiplegiaqmnpm/praesentium-ut-quam": "^1.0.0",
+    "@emiplegiaqmnpm/quas-vero-impedit": "^1.0.0",
+    "@emiplegiaqmnpm/reiciendis-sint-iusto": "^1.0.0",
+    "@emiplegiaqmnpm/repudiandae-dolorem-facere": "^1.0.0",
+    "@f1stnpm2/officiis-cumque-dolor-ducimus": "^1.0.0",
+    "@ffras4vnpm/atque-vel-expedita-quam": "^1.0.0"
+  },
+  "keywords": [
+    "extend",
+    "watching",
+    "properties",
+    "tc39",
+    "stringifier",
+    "omit",
+    "lockfile",
+    "has",
+    "irq",
+    "values",
+    "Array.prototype.flatten",
+    "negative zero",
+    "configurable",
+    "yup",
+    "promise",
+    "regular expressions",
+    "emit",
+    "watchFile",
+    "es2018",
+    "styled-components",
+    "const",
+    "linux",
+    "css-in-js",
+    "banner",
+    "redux-toolkit",
+    "input",
+    "stylesheet",
+    "concatMap",
+    "toArray",
+    "mkdirs",
+    "assign",
+    "react pose",
+    "minimal",
+    "prune"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/emiplegiaqmnpm/eaque-vitae-recusandae.git"
   },
-  "dependencies": {
-    
-  }
+  "homepage": "https://github.com/emiplegiaqmnpm/eaque-vitae-recusandae/#readme",
+  "bugs": {
+    "url": "https://github.com/emiplegiaqmnpm/eaque-vitae-recusandae/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
